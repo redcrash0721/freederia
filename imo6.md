@@ -1,4 +1,3 @@
-Here is the English translation of the universal problem-solving algorithm model for the given number theory problem:
 
 Universal Problem-Solving Algorithm Model
 

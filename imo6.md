@@ -76,7 +76,9 @@ This is the fundamental reason we continuously obtained incorrect results (such 
 
 
 
-<First solution>
+1.First solution
+
+
 
 Ω¹²‑Solution Skeleton (concise English outline)
 Stage	Engine	Purpose	Core move on the 2025 × 2025 board
@@ -394,7 +396,7 @@ Jimin cannot do with fewer than 2112 rectangles, and the construction above sh
 
 
 
-<Second solution>
+2.Second solution
 
 
 Ω‑SOLVER Run‑Log (vΩ.12.X → Ω‑Lock Achieved)
@@ -1575,7 +1577,7 @@ f(2025)=2112, completing the task with lower‑upper bound unification (LB =�
 
 
 
-<Third solution>
+3.Third solution
 
 
 Ω‑Phase 0 · Universal Context Scan
